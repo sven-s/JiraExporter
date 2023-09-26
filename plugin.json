@@ -1,0 +1,16 @@
+{
+  "id": "jira_exporter",
+  "tymeMinVersion": "2022.16",
+  "version": "1.6",
+  "type": "export",
+  "name": "Jira Exporter",
+  "summary": "Export your recorded times and notes to Jira.",
+  "author": "Sven Sönnichsen",
+  "authorUrl": "https://www.itdevcon.com",
+  "icon": "jira_icon.png",
+  "scriptName": "script.js",
+  "scriptMain": "jiraExportResolver.export()",
+  "scriptPreview": "timeEntriesConverter.generatePreview()",
+  "formName": "form.json",
+  "localizationName": "localization.json"
+}
