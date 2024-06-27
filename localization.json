@@ -1,5 +1,7 @@
 {
   "en": {
+    "plugin.name": "Jira Exporter",
+    "plugin.summary": "Export timesheets to Jira",
     "locale.identifier": "en-US",
     "input.key": "API Token",
     "input.key.placeholder": "Please enter your API-Token",
@@ -23,6 +25,8 @@
     "timesheet.end": "End"
   },
   "de": {
+    "plugin.name": "Jira Exporter",
+    "plugin.summary": "Exportiere Zeiten nach Jira",
     "locale.identifier": "de-DE",
     "input.key": "API Token",
     "input.key.placeholder": "Bitte gib deinen API-Token ein",
